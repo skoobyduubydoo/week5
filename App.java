@@ -1,7 +1,7 @@
 
 
 public class App {
-                                        ///////////////////////////////////Asterisk log input prompt//////////////////////////////////////////
+                                        
     public static void main(String[] args) 
 {
 
